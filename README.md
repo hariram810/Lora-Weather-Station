@@ -4,7 +4,6 @@ If you have hard-time 3d printing stuff and other materials which i have provide
 
 [JLCPCB](https://jlcpcb.com/RNA)
 
-
 Please use the following link to register an account in [JLCPCB](https://jlcpcb.com/RNA)
 
 https://jlcpcb.com/RNA
@@ -23,13 +22,11 @@ Pcb Manufacturing
 jlcpcb.com/RNA
 
 
-
 PCBA Services
 
 [JLCPCB](https://jlcpcb.com/RNA) have 350k+ Components In-stock. You don’t have to worry about parts sourcing, this helps you to save time and hassle, also keeps your costs down.
 
 Moreover, you can pre-order parts and hold the inventory at [JLCPCB](https://jlcpcb.com/RNA), giving you peace-of-mind that you won't run into any last minute part shortages. jlcpcb.com/RNA
-
 
 
 3d printing
@@ -40,9 +37,11 @@ SLA -- MJF --SLM -- FDM -- & SLS. easy order and fast shipping makes [JLCPCB](ht
 
 [JLCPCB](https://jlcpcb.com/RNA) 3D Printing starts at $1 &Get $54 Coupons for new users
 
+
+
 Using the LoRa Module SX1278/RFM95 you can monitor the data from a few kilometer distances (up to 5Km). The device operates on a 3.7V lithium Ion Battery Battery and power consumption is low.
 
-![Uploading Screenshot (695).png…]()
+![Uploading Screenshot (693).png…]()
 
 
 The Gateway can be placed indoors inside the house or can be placed at a certain height to achieve a long distance. The gateway is made using Lora SX1278/RFM95 and ESP32 Wifi Module. The receiver collects the data from the sender or Sensor Node and uploads it to the Server.
