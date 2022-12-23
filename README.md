@@ -1,5 +1,8 @@
 # Lora-Weather-Station
 
+![Screenshot (693)](https://user-images.githubusercontent.com/118633170/209283302-880bcf66-865f-42f2-b266-51b3ebc334f9.png)
+
+
 If you have hard-time 3d printing stuff and other materials which i have provided in this project please refer the professionals for the help, [JLCPCB](https://jlcpcb.com/RNA) is one of the best company from shenzhen china they provide, PCB manufacturing, PCBA and 3D printing services to people in need, they provide good quality products in all sectors
 
 [JLCPCB](https://jlcpcb.com/RNA)
@@ -37,11 +40,10 @@ SLA -- MJF --SLM -- FDM -- & SLS. easy order and fast shipping makes [JLCPCB](ht
 
 [JLCPCB](https://jlcpcb.com/RNA) 3D Printing starts at $1 &Get $54 Coupons for new users
 
+![Screenshot (694)](https://user-images.githubusercontent.com/118633170/209283360-94b28ed5-b5cd-4f2a-905c-530e248d4cc9.png)
 
 
 Using the LoRa Module SX1278/RFM95 you can monitor the data from a few kilometer distances (up to 5Km). The device operates on a 3.7V lithium Ion Battery Battery and power consumption is low.
-
-![Uploading Screenshot (693).png…]()
 
 
 The Gateway can be placed indoors inside the house or can be placed at a certain height to achieve a long distance. The gateway is made using Lora SX1278/RFM95 and ESP32 Wifi Module. The receiver collects the data from the sender or Sensor Node and uploads it to the Server.
@@ -72,7 +74,8 @@ Derived from the DAVIS Vantage Pro 2 model, the UBIQ-IoT LoRaWAN Weather Station
 
 It measures air temperature and relative humidity, rainfall, wind speed and direction. The LoRaWAN transmission technology allows to cover long range distances, providing stable and reliable readings. The weather station connects over a private LoRaWAN network and transmits sensor data to a LoRaWAN Gateway.
 
-![Uploading Screenshot (702).png…]()
+![Screenshot (698)](https://user-images.githubusercontent.com/118633170/209283382-b39baa4f-60cb-4355-a523-44d5daa3947c.png)
+
 
 
 Before moving to the programming part, you need to install Libraries to the Arduino IDE. The following are the list of Libraries that is used in the code below.
@@ -236,11 +239,15 @@ void loop()
 
     Serial.println(LoRa.packetRssi());
     
-    ![Uploading Screenshot (698).png…]()
+![Screenshot (699)](https://user-images.githubusercontent.com/118633170/209283407-6ce1fc05-bf5a-427f-8075-524ebe367494.png)
+
     
 The LoRa Module operates on frequency 433Mhz, but you can select the 868MHz or 915MHz frequency according to your region. You can use any other Lora module with a different antenna as per the availability in your region. Remember the LoRa Based Weather Station is not a waterproof device, so place it inside the waterproof casing.
 
 Derived from the DAVIS Vantage Pro 2 model, the UBIQ-IoT LoRaWAN Weather Station WS100LRW is designed to provide the highest level of accuracy, reliability and ruggedness. It is engineered to withstand the most challenging weather conditions such as scorching sun, corrosion, strong winds and temperature extremes.
 
 It measures air temperature and relative humidity, rainfall, wind speed and direction. The LoRaWAN transmission technology allows to cover long range distances, providing stable and reliable readings. The weather station connects over a private LoRaWAN network and transmits sensor data to a LoRaWAN Gateway.
+
+![Screenshot (701)](https://user-images.githubusercontent.com/118633170/209283451-1a90e5f8-c60d-480c-b6f6-a8246d2d18bc.png)
+
     
